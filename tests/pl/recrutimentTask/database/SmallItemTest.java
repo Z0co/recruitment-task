@@ -1,7 +1,5 @@
 package pl.recrutimentTask.database;
 
-import static org.junit.Assert.fail;
-
 import org.junit.Test;
 
 public class SmallItemTest {
